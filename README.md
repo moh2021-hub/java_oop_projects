@@ -1,1 +1,2 @@
-# java_oop_projects
+#Object-Oriented Programming Projects
+Welcome to my collection of Object-Oriented Programming (OOP) projects! Below, you'll find a variety of projects that demonstrate principles of OOP in action. Each project is designed to showcase different aspects of OOP, from encapsulation to inheritance and polymorphism. Feel free to explore and use these projects as references for your own learning or development.
